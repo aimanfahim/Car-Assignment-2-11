@@ -1,0 +1,8 @@
+C:\Users\aimen\source\repos\GAME 1343\CarAssignment\obj\Debug\CarAssignment.csproj.AssemblyReference.cache
+C:\Users\aimen\source\repos\GAME 1343\CarAssignment\obj\Debug\CarAssignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\aimen\source\repos\GAME 1343\CarAssignment\obj\Debug\CarAssignment.csproj.CoreCompileInputs.cache
+C:\Users\aimen\source\repos\GAME 1343\CarAssignment\bin\Debug\CarAssignment.exe.config
+C:\Users\aimen\source\repos\GAME 1343\CarAssignment\bin\Debug\CarAssignment.exe
+C:\Users\aimen\source\repos\GAME 1343\CarAssignment\bin\Debug\CarAssignment.pdb
+C:\Users\aimen\source\repos\GAME 1343\CarAssignment\obj\Debug\CarAssignment.exe
+C:\Users\aimen\source\repos\GAME 1343\CarAssignment\obj\Debug\CarAssignment.pdb
